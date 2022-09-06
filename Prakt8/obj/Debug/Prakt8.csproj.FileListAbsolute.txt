@@ -1,0 +1,7 @@
+E:\ProektVS\Prakt8\Prakt8\bin\Debug\Prakt8.exe.config
+E:\ProektVS\Prakt8\Prakt8\bin\Debug\Prakt8.exe
+E:\ProektVS\Prakt8\Prakt8\bin\Debug\Prakt8.pdb
+E:\ProektVS\Prakt8\Prakt8\obj\Debug\Prakt8.csproj.AssemblyReference.cache
+E:\ProektVS\Prakt8\Prakt8\obj\Debug\Prakt8.csproj.CoreCompileInputs.cache
+E:\ProektVS\Prakt8\Prakt8\obj\Debug\Prakt8.exe
+E:\ProektVS\Prakt8\Prakt8\obj\Debug\Prakt8.pdb
